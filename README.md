@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Md Raisul Islam Khan
 
-🎓 **3rd Year B.Sc. in Software Engineering**  
+🎓 **2nd Year B.Sc. in Software Engineering**  
 📍 Daffodil International University, Dhaka, Bangladesh  
 💻 Aspiring **Software Engineer** | Future **Data Analyst**  
 🌱 Currently focusing on: **Java Backend Development**, **Object-Oriented Programming**, and **Data Structures & Algorithms**
@@ -60,5 +60,5 @@ Some of the key projects I’m working on or have planned:
 
 ---
 
-> “I believe in building meaningful tech that solves real problems and empowers communities.”.
+> “I believe in building meaningful tech that solves real problems and empowers communities.”
 
