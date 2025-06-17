@@ -60,5 +60,5 @@ Some of the key projects I’m working on or have planned:
 
 ---
 
-> “I believe in building meaningful tech that solves real problems and empowers communities.”..
+> “I believe in building meaningful tech that solves real problems and empowers communities.”.
 
