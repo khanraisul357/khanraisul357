@@ -54,7 +54,7 @@ Some of the key projects I’m working on or have planned:
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/mdraisul-islamkhan)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/khanraisul357/) 
 - 📧 Email: khanraisul357@gmail.com 
 - 🌐 Portfolio: *(Coming Soon)*
 
