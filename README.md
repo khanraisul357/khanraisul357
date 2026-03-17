@@ -1,64 +1,36 @@
-# 👋 Hello, I'm Md Raisul Islam Khan(Spring Boot Developer)
-
-🎓 **2nd Year B.Sc. in Software Engineering**  
-📍 Daffodil International University, Dhaka, Bangladesh  
-💻 Aspiring **Software Engineer** | Future **Data Analyst**  
-🌱 Currently focusing on: **Java Backend Development**, **Object-Oriented Programming**, and **Data Structures & Algorithms**
+# 👋 Hello, I'm Md Raisul Islam Khan
+**Java Backend Developer || Spring Boot & Microservices || Founder @Afrobad** 
 
 ---
 
-## 💼 About Me
-
-I am a passionate and detail-oriented software engineering student with a strong interest in solving real-world problems through code. I specialize in Java and backend technologies and am actively building impactful, beginner-to-intermediate level projects using:
-
-- ✅ **Java, OOP, JDBC**
-- ✅ **Spring Boot, REST APIs, SQL**
-- ✅ **C Programming for system-level projects**
-- ✅ **UI/UX basics (Figma) & Frontend Learning Path (HTML, CSS, JavaScript)**
-
-I’m also learning how to integrate **DSA** into real-world applications and follow modern tech development workflows with a focus on scalability and performance.
+## 🔭 I am currently working on
+- **VeinLiniker**:Full Stack Project
+- **FabriEye**: AI Project
 
 ---
-
-## 🚀 My Goals
-
-- 🔁 Build **end-to-end backend projects** using Java & Spring Boot
-- 📊 Break into the **Data Science** field via analytics and visualization
-- 🏢 Secure an **internship** in Software Engineering or Data Analytics
-- 🌐 Explore full stack web development
-- 🧠 Learn and implement **DSA**, **System Design**, and clean architecture
-- 💡 Work on impactful projects related to **SafetyTech**, **EdTech**, and **Eco-Innovation**
-
----
-
-## 🛠️ Projects & Interests
-
-Some of the key projects I’m working on or have planned:
-
-- 🎯 **Safe Track** – A real-time location tracking & emergency alert system for safety
-- 📞 **Telephone Billing System (in C)** – Simulates call records, billing, and payment
-- 🧠 **AI Engagement Band** – AI-based classroom attention monitoring system (Idea stage)
-- ♻️ **Waste-to-GreenProfit** – A sustainable startup idea focused on transforming waste into profitable products aligned with SDGs
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
 
 ---
 
 ## 📚 Currently Learning
-
 - Java Spring Boot & REST API
 - Data Structures & Algorithms (Java)
 - SQL and Database Design
 - UI/UX Prototyping (Figma)
-- Git & GitHub for version control
 
 ---
 
-## 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/khanraisul357/) 
-- 📧 Email: khanraisul357@gmail.com 
-- 🌐 Portfolio: *(Coming Soon)*
+## 🌐 Let's Connect
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/khanraisul357) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khan_raisul_357) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khanraisul357) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/khanraisul357) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCxTcqev9AAWGYwABW7gOShw) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khanraisul357@gmail.com) 
+- 🌐 Portfolio: khanraisul.com
 
 ---
 
-> “I believe in building meaningful tech that solves real problems and empowers communities.”
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+
+
 
