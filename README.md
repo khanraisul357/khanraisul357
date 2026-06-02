@@ -7,7 +7,7 @@
 - **VeinLinker**:Full Stack Project(real-life) --> **Tech stacK:** Java, Spring Boot, MySQL, Redis, React
 - **Department Management System**: Full Stack Project(real-life) --> **Tech stacK:** NodeJS, PostgreSQL, Redis, React
   
-## 🔭 Uocoming Projects
+## 🔭 Upcoming Projects
 - **FabriEye**: AI Project(real-life)
 - **My Portfolio**: Full Stack Portfolio Project(practice)
 ---
