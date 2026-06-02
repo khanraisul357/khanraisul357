@@ -6,6 +6,7 @@
 ## 🔭 I am currently working on
 - **VeinLinker**:Full Stack Project(real-life)
 - **FabriEye**: AI Project(real-life)
+- **Department**: AI Project(real-life)
 - **My Portfolio**: Full Stack Portfolio Project(practice)
 ---
 # 💻 Tech Stack:
