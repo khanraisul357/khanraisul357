@@ -4,8 +4,8 @@
 ---
 
 ## 🔭 I am currently working on
-- **VeinLinker**:Full Stack Project(real-life)
-    *Tech stacK:* Java, Spring Boot, MySQL, Redis, React,
+- **VeinLinker**:Full Stack Project(real-life) -->
+    **Tech stacK:** Java, Spring Boot, MySQL, Redis, React,
 - **FabriEye**: AI Project(real-life)
 - **Department**: Full Stack Project(real-life)
 - **My Portfolio**: Full Stack Portfolio Project(practice)
