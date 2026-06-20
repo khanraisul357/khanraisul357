@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Md Raisul Islam Khan
-**Java Backend Developer || Spring Boot & Microservices || Founder @Afrobad** 
+**Backend Developer || Spring Boot & Microservices || Founder @Afrobad** 
 
 ---
 
