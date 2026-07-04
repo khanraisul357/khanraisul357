@@ -1,10 +1,10 @@
 # 👋 Hello, I'm Md Raisul Islam Khan.
-**Backend & AI Engineer || Java, Spring Boot & Microservices || Founder @Afrobad || Tech Educator** 
+**Backend Developer || Java & Spring Boot || Founder @Afrobad || Research** 
 
 ---
 
 ## 🔭 I am currently working on
-- **VeinLinker**:Full Stack Project(real-life) --> **Tech stacK:** Java, Spring Boot, MySQL, Redis, React
+- **VeinLinker**:Full Stack Project(real-life) --> **Tech stack:** Java, Spring Boot, MySQL, Redis, React
 - **Department Management System**: Full Stack Project(real-life) --> **Tech stacK:** NodeJS, PostgreSQL, Redis, React
   
 ## 🔭 Upcoming Projects
