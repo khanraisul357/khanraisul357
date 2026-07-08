@@ -26,7 +26,7 @@
 ## 📚 Currently Learning
 - Java Spring Boot & REST API
 - Data Structures & Algorithms (Java)
-- SQL and Database Design
+- SQL,Redis and Database Design
 - UI/UX Prototyping (Figma)
 
 ---
