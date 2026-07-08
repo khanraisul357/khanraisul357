@@ -13,8 +13,8 @@
 ---
 
 ## 🔭 Research Projects
-- **FabriEye**: 
-- **My Portfolio**: Full Stack Portfolio Project(practice)
+- **VeinLinker**
+- **WearWish**
 ---
 
 # 💻 Tech Stack:
