@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Md Raisul Islam Khan.
-**Backend Developer || Java & Spring Boot || Founder @Afrobad || Research** 
+**Backend Developer • Java & Spring Boot • Research** 
 
 ---
 
