@@ -46,5 +46,3 @@ Stay updated with the latest tutorials and projects by subscribing to my YouTube
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
-
