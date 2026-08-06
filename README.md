@@ -7,7 +7,7 @@
   
 ## 🔭 Upcoming Projects
 - **FabriEye**: AI Project(real-life)
-- **My Portfolio**: Full Stack Portfolio Project(practice)
+- ****: Full Stack Portfolio Project(practice)
 ---
 
 ## 🔭 Research Projects
