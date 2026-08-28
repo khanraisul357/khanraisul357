@@ -5,7 +5,6 @@
 - **VeinLinker**:Full Stack Project(real-life) --> **Tech stack:** Java, Spring Boot, MySQL, Redis, React
 - **Acadex**: Full Stack Project(real-life) --> **Tech stacK:** NodeJS, PostgreSQL, Redis, React
   
-## 🔭 Upcoming Projects- **fairplay**: Full Stack Portfolio Project(
 
 
 ## 🔭 Research Projects
