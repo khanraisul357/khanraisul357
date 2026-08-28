@@ -8,7 +8,7 @@
 ## 🔭 Upcoming Projects
 - **FabriEye**: AI Project(real-life)
 - **fairplay**: Full Stack Portfolio Project(practice)
----
+
 
 ## 🔭 Research Projects
 - **VeinLinker**
