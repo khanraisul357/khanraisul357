@@ -4,8 +4,6 @@
 ## 🔭 I am currently working on
 - **VeinLinker**:Full Stack Project(real-life) --> **Tech stack:** Java, Spring Boot, MySQL, Redis, React
 - **Acadex**: Full Stack Project(real-life) --> **Tech stacK:** NodeJS, PostgreSQL, Redis, React
-  
-
 
 ## 🔭 Research Projects
 - **VeinLinker**
