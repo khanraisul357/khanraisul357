@@ -7,7 +7,7 @@
 - 
 ## 🔭 Research Projects
 - **VeinLinker**
-- **WearWish**
+- **Plasticoholic**
 ---
 
 # 💻 Tech Stack:
