@@ -35,8 +35,21 @@ Connect with me on Instagram, Facebook and Twitter. Stay updated with the latest
 
 ---
 
-## 🌐I am a Content Creator. 😊😊
+## 🌐 I am a Content Creator 😊
 
+### 💻 Tech & Education Content
+
+I create and share technology, software development, programming, and educational content through **Afrobad**.
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/afrobad.official/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/afrobad.official/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@afrobad.official)
+
+### 🎬 Funny & Entertainment Content
+
+I also create funny and relatable content on **Noshugiri**.
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/noshshugiri/)
 
 ---
 
