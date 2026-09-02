@@ -28,7 +28,7 @@ Connect with me on Instagram, Facebook and Twitter. Stay updated with the latest
 ---
 
 ## 📚 Currently Learning
-- Java Spring Boot & REST API
+- Java Spring Boot,React, Node.js,Express.js & REST API
 - Data Structures & Algorithms (Java)
 - SQL,Redis and Database Design
 - UI/UX Prototyping (Figma)
