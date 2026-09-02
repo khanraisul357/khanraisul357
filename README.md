@@ -1,5 +1,10 @@
 # 👋 Hello, I'm Md Raisul Islam Khan.
 **Backend Developer • Java & Spring Boot • Research** 
+
+## 🌐Social Media. 😊😊
+Connect with me on Instagram, Facebook and Twitter. Stay updated with the latest tutorials and projects by subscribing to my YouTube channel.
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/khanraisul357) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khan_raisul_357) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khanraisul357) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/khanraisul357) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCxTcqev9AAWGYwABW7gOShw) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khanraisul357@gmail.com) 
+- 🌐 Portfolio: https://sites.google.com/diu.edu.bd/khanraisul357/
 ---
 ## 🔭 I am currently working on
 - **VeinLinker**:Full Stack Project(real-life) --> **Tech stack:** Java, Spring Boot, MySQL, Redis, React
@@ -32,9 +37,6 @@
 
 ## 🌐I am a Content Creator. 😊😊
 
-Stay updated with the latest tutorials and projects by subscribing to my YouTube channel and following on Instagram, Facebook and Twitter.
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/khanraisul357) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khan_raisul_357) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khanraisul357) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/khanraisul357) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCxTcqev9AAWGYwABW7gOShw) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khanraisul357@gmail.com) 
-- 🌐 Portfolio: https://sites.google.com/diu.edu.bd/khanraisul357/
 
 ---
 
