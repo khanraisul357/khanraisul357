@@ -10,7 +10,7 @@ Connect with me on Instagram, Facebook and Twitter. Stay updated with the latest
 ## 🔭 I am currently working on
 - **VeinLinker**:Full Stack Project(real-life) --> **Tech stack:** Java, Spring Boot, MySQL, Redis, React
 - **Acadex**: Full Stack Project(real-life) --> **Tech stacK:** NodeJS, PostgreSQL, Redis, React
-- 
+
 ## 🔭 Research Projects
 - **VeinLinker**
 - **Plasticoholic**
